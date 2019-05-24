@@ -87,3 +87,7 @@ Setting 页面 ==> Reveal Config Vars
 ![9](./imgs/9.png)
 
 6. 现在你就可以科学上网了
+
+# 问题
+SwitchyOmega 显示 "CRX_HEADER_INVAILD"
+**解决：**在https://github.com/FelisCatus/SwitchyOmega/releases 下载最新插件，然后将其解压成文件夹，以开发这模式打开即可
